@@ -1,0 +1,9 @@
+main {
+  min-height: 80vh;
+}
+
+/* RATING COMPONENT */
+
+.rating i {
+  color: #ff4d07;
+}
